@@ -1,0 +1,9 @@
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\bin\Debug\WS1_PS.exe.config
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\bin\Debug\WS1_PS.exe
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\bin\Debug\WS1_PS.pdb
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\obj\Debug\WS1_PS.csproj.AssemblyReference.cache
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\obj\Debug\WS1_PS.csproj.CoreCompileInputs.cache
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\obj\Debug\WS1_PS.exe
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\obj\Debug\WS1_PS.pdb
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\obj\Debug\WS1_PS.Uppercase1.resources
+C:\Users\Schab\Programmes\programmes_C#\WS1_PS\obj\Debug\WS1_PS.csproj.GenerateResource.cache
